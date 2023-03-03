@@ -10,8 +10,8 @@ This project is building a hangman game using python language. The goal is to st
 ### Module
 Modules that I used for this project: 
 ```
-random
-string
+import random
+import string
 ```
 
 ## References
